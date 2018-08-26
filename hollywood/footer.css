@@ -82,8 +82,8 @@ a:hover,a:focus{
 }
 
 #contact{
-  background:#333333;
-  color:#f4f4f4;
+  background:;
+  color:#333333;
   padding-bottom:80px;
 }
 
@@ -92,8 +92,16 @@ textarea.form-control{
 }
 
 
-  .navbar-nav{
-    font-size: 20px;
-    font-weight: bold;
-    font-variant: all;
-    }
+.navbar-nav{
+  font-size: 17.5px;
+  font-weight: bold;
+  
+  }
+  .dropdown-item
+{
+  font-size: 17.5px;
+  font-weight: bold;
+  
+  }
+
+
