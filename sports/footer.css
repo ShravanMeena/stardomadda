@@ -91,8 +91,17 @@ textarea.form-control{
     height:100px;
 }
 
-  .navbar-nav{
-    font-size: 20px;
-    font-weight: bold;
-    font-variant: all;
-    }
+
+.navbar-nav{
+  font-size: 17.5px;
+  font-weight: bold;
+  
+  }
+  .dropdown-item
+{
+  font-size: 17.5px;
+  font-weight: bold;
+  
+  }
+
+
